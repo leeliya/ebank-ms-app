@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 HELP.md
+=======
+gHELP.md
+>>>>>>> 1bab178 (feat: init ebank-ms-app parent and customer-service)
 target/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
@@ -31,6 +35,7 @@ build/
 
 ### VS Code ###
 .vscode/
+<<<<<<< HEAD
 
 .settings/
 
@@ -39,3 +44,5 @@ build/
 .env
 .env.*
 !.env.example
+=======
+>>>>>>> 1bab178 (feat: init ebank-ms-app parent and customer-service)
