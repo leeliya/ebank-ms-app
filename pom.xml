@@ -47,7 +47,7 @@
 		<module>customer-service</module>
 		<module>ebank-service</module>
 		<module>gateway-service</module>
-<!--		<module>discovery-service</module>-->
+		<module>discovery-service</module>
 	</modules>
 
 	<build>
